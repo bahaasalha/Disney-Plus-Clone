@@ -19,24 +19,8 @@ RTK Query
 React Query
 
 
-## Screens
+### Screens
 
 > Yes, these are actual screenshots from my Display Plus clone app!
-
-![screenshot](/disney-plus-clone-main.png?raw=true)
-
-<br />
-
-![screenshot](/disney-plus-clone-detail.png?raw=true)
-
-<br />
-
-![screenshot](/disney-plus-clone-intro.png?raw=true)
-
-<br />
-
-![screenshot](/disney-plus-clone-video-player.png?raw=true)
-
-<br />
-
-![screenshot](/disney-plus-clone-video-player-overlay.png?raw=true)
+> 
+![screencapture-disneyclone-six-vercel-app-2022-12-03-18_48_39](https://user-images.githubusercontent.com/91798754/205452173-7701cd95-2991-4c2a-9b34-1983f18552c4.png)
