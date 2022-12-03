@@ -4,11 +4,7 @@
 
 ### React + Redux Toolkit + React Query + Redux Observable (Rxjs) + Typescript
 
-#<br />
-
-[![](/disney-plus-clone-youtube.png)](https://youtu.be/fmLhI8G993Y)
-[Disney Plus Clone Demo - Youtube](https://youtu.be/fmLhI8G993Y)
-<br /><br />
+<br />
 
 
 
